@@ -1,3 +1,5 @@
 zhangzhihan
 
 Creating a new branch is quick AND simple.
+
+no fast forward
