@@ -2,5 +2,5 @@ zhangzhihan
 
 Creating a new branch is quick AND simple.
 
-no fast forward
+no fast forward        and  stash
  bug issue-101
